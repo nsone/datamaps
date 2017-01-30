@@ -1,9 +1,9 @@
 {
-  "name": "datamaps",
+  "name": "nsone-forked-datamaps",
   "main": "dist/datamaps.all.js",
   "description": "datamaps with d3.js",
   "version": "0.5.8",
-  "author": "Mark DiMarco<markmarkoh@gmail.com>",
+  "author": "edits by jordan byrd, lib by Mark DiMarco<markmarkoh@gmail.com>",
   "contributors": [
     "Enrico Berti (https://github.com/enricoberti)",
     "Matteo Guarnerio (http://matteoguarnerio.com)",
@@ -13,13 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/markmarkoh/datamaps.git"
+    "url": "https://github.com/nsone/datamaps.git"
   },
   "scripts": {
     "test": "grunt jasmine"
   },
   "dependencies": {
-    "d3": "^3.5.6",
     "topojson": "^1.6.19"
   },
   "devDependencies": {
